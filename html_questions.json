@@ -1,0 +1,82 @@
+[
+  {
+    "title": "What does the abbreviation HTML stand for?",
+    "answer_1": "HyperText Markup Language",
+    "answer_2": "HighText Markup language",
+    "answer_3": "HyperText Markdown Language",
+    "answer_4": "None of the above",
+    "right_answer": "HyperText Markup Language"
+  },
+  {
+    "title": "How many sizes of headers are available in HTML by default?",
+    "answer_1": "5",
+    "answer_2": "2",
+    "answer_3": "6",
+    "answer_4": "1",
+    "right_answer": "6"
+  },
+  {
+    "title": "What is the smallest header in HTML by default?",
+    "answer_1": "h5",
+    "answer_2": "h2",
+    "answer_3": "h6",
+    "answer_4": "h1",
+    "right_answer": "h6"
+  },
+  {
+    "title": "How to create an ordered list in HTML?",
+    "answer_1": "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<href>",
+    "answer_4": "<br>",
+    "right_answer": "<ol>"
+  },
+  {
+    "title": "HTML files are saved by default with the extension?",
+    "answer_1": ".html",
+    "answer_2": ".h",
+    "answer_3": ".ht",
+    "answer_4": "None of the above",
+    "right_answer": ".html"
+  },
+  {
+    "title": "We enclose HTML tags within?",
+    "answer_1": "{}",
+    "answer_2": "<>",
+    "answer_3": "!!",
+    "answer_4": "None of the above",
+    "right_answer": "<>"
+  },
+  {
+    "title": "What is the effect of the <b> tag?",
+    "answer_1": "convert the text within it to bold font.",
+    "answer_2": "it use to write black colored font",
+    "answer_3": "it used to change the size",
+    "answer_4": "None of the above",
+    "right_answer": "convert the text within it to bold font."
+  },
+  {
+    "title": "How to display preformatted text in HTML?",
+    "answer_1": "<p>",
+    "answer_2": "<pre>",
+    "answer_3": "<hr>",
+    "answer_4": "<All of the above>",
+    "right_answer": "<pre>"
+  },
+  {
+    "title": "Which of the following tags doesn’t require a closing tag?",
+    "answer_1": "<br>",
+    "answer_2": "<hr>",
+    "answer_3": "Both A and B",
+    "answer_4": "None of the above",
+    "right_answer": "Both A and B"
+  },
+  {
+    "title": "Which attribute is used to provide a unique name to an HTML element?",
+    "answer_1": "id",
+    "answer_2": "class",
+    "answer_3": "type",
+    "answer_4": "None of the above",
+    "right_answer": "id"
+  }
+]
