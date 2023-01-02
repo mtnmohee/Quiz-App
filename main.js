@@ -27,7 +27,7 @@ function getQuestions() {
       //   Add Questions Data
       addQuestionData(questionsObject[currentIndex], qCount);
       // start countdown
-      countdown(3, qCount);
+      countdown(10, qCount);
 
       //   Click on Submit
       submitButten.onclick = () => {
@@ -49,7 +49,7 @@ function getQuestions() {
 
         // start countdown
         clearInterval(countdownInterval);
-        countdown(3, qCount);
+        countdown(10, qCount);
 
         // Show Results
         showResults(qCount);
